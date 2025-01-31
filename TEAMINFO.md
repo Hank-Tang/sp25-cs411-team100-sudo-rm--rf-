@@ -8,8 +8,8 @@
 | TeamName    |         sudo rm -rf/*  |
 | Captain     |       Zixuan Chen      |
 | Captain     |    uanc7@illinois.edu  |
-| Member1     |                |
-| Member1     |     |
+| Member1     |       Yihan Tang       |
+| Member1     |   yihant3@illinois.edu |
 | Member2     |         |
 | Member2     |   |
 | Member3     |                        |
